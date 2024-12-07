@@ -1,3 +1,4 @@
+//this is the go programm for finding the lowest number
 package main
 
 import "fmt"
