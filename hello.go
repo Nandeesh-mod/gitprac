@@ -1,4 +1,6 @@
+//this is the hello world programm
 package main 
+
 
 
 import(
