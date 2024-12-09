@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 // this is the  programm for fibbonacci sequnce 
-=======
 // done by dev 2
->>>>>>> 5a9010d6bc807f4518947d10cc73834481106d10
 package main
 
 import (
