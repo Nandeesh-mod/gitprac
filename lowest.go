@@ -1,4 +1,4 @@
-//this is the go programm for finding the lowest number
+//Go programm for finding lowest number
 package main
 
 import "fmt"
