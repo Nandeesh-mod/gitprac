@@ -3,7 +3,12 @@ package main
 
 
 
+// import statement
+
 import "fmt"
+
+
+// helper function
 
 func find_lowest(myarr []int) int {
 	var low int = myarr[0]
@@ -17,6 +22,8 @@ func find_lowest(myarr []int) int {
 
 }
 
+
+// main function
 func main() {
 	var size int
 	fmt.Scanf("%d", &size)
