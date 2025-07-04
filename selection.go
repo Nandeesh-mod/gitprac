@@ -1,5 +1,7 @@
 package main
 
+// selection sort
+
 import (
 	"fmt"
 )
