@@ -1,5 +1,7 @@
 package main
 
+// Prime number programm in golang
+
 import (
 	"fmt"
 )
