@@ -15,7 +15,7 @@ func fibLoops(n int) {
 	fmt.Printf("%d %d ", first, second)
 	for i := 2; i < n; i++ {
 		fib := first + second
-		fmt.Printf("%d ", fib)
+		fmt.Printf("fib : %d ", fib)
 		first = second
 		second = fib
 	}
