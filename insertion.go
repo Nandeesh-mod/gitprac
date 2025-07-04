@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+
+// insertion sort programm
 func insertion_sort(arr []int) {
 	var length int = len(arr)
 
